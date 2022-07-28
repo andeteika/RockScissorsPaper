@@ -9,13 +9,13 @@ Follow the instructions listed below to start playing the game.
 1. Download the whole repository or just the folder RockPaperScissorsGUI.
 2. Unzip the file and open a terminal. Navigate through the folders until you reach RockPaperScissorsGUI.
    ```
-   cd MorraCineseGUI
+   cd RockPaperScissorsGUI
    ```
 3. Run the following command, to compile and start the game. (The following command works for Windows). Also, be sure to have Java installed on your PC.
    ```
-   javac MorraCineseGUI.java; java MorraCineseGUI
+   javac RockPaperScissorsGUI.java; java RockPaperScissorsGUI
    ```
 4. Leave the terminal open whilst you are playing the game. Next update migth involve a .jar file, in order to ease the user.
 
 ## Contact
-Adam Bisinella - adam.bisinella@gmail.com
+Author: Adam Bisinella - adam.bisinella@gmail.com
