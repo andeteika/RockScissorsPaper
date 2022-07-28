@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/andeteika/MorraCinese/blob/main/screenshot.png">
 </p>
-A simple Rock Scissor Paper game, developed in Java. It is possible to save games and open previous saved ones
+A simple Rock Scissor Paper game, developed in Java. It is possible to save games and open previous saved ones.
 
 ### Installation
 Follow the instructions listed below to start playing the game.
