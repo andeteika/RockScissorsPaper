@@ -1,4 +1,4 @@
-## About the project
+### Introduction
 <p align="center">
   <img src="https://github.com/andeteika/MorraCinese/blob/main/screenshot.png">
 </p>
