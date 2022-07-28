@@ -7,9 +7,9 @@ A simple Rock Scissor Paper game, developed in Java. It is possible to save game
 ### Installation
 Follow the instructions listed below to start playing the game.
 1. Download the whole reposity or just the folder MorraCineseGUI.
-2. Open a terminal, and go to the directory where you unzipped the file just dowloaded.
+2. Unzip the file and open a terminal. Navigate through the folders until you reach MorraCineseGUI.
    ```
-   cd folder_path
+   cd MorraCineseGUI
    ```
 3. Run the following command, to compile and start the game. (The following command works for Windows). Also, be sure to have Java installed on your PC.
    ```
