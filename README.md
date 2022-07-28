@@ -1,6 +1,6 @@
 ## About The Project
 <p align="center">
-  <img src="http://www.fillmurray.com/460/300](https://github.com/andeteika/MorraCinese/blob/main/screenshot.png)">
+  <img src="https://github.com/andeteika/MorraCinese/blob/main/screenshot.png">
 </p>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
